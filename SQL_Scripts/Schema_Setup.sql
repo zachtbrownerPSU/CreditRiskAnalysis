@@ -1,0 +1,4 @@
+CREATE SCHEMA RawData;
+GO
+CREATE SCHEMA Analytics;
+GO
